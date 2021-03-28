@@ -1,0 +1,5 @@
+mkdir pyats
+cd pyats
+python3 -m venv .
+source bin/activate
+pip install pyats genie
